@@ -1,0 +1,50 @@
+.resume-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: navy;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: grey;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: navy;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+p {
+    margin-bottom: 10px;
+    color: black;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    color: black;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Add any additional styling specific to your preference */
